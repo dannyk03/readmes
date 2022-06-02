@@ -1,0 +1,1 @@
+AI-driven social impact engagement. Assess, activate, and align your organizational culture. <br/> Backend is build in NodeJS + Sequelize + Express, frontend is built in VueJS for admin panel, NuxtJS for quiz application, wordpress for landing pages.
